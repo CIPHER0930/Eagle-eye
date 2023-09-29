@@ -10,6 +10,16 @@ import mediapipe as mp
 import cv2
 import numpy as np
 
+# Display the image
+image = cv2.imread("eagle_eye.png")
+cv2.imshow("Image", image)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+
+# Rest of the code
+# ...
+
+
 class MultilingualChatbot:
  def __init__(self, languages):
  self.languages = languages
