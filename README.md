@@ -22,17 +22,17 @@ To set up the Eagle Eye AI on your local machine, follow these steps:
 
 1. Clone this repository using the command:
    
-   git clone https://github.com/
-   
+   git clone
+https://github.com/CIPHER0930/Eagle-eye
 
-2. Install the required dependencies by running:
+3. Install the required dependencies by running:
    
    pip install -r requirements.txt
    
 
-3. Configure the necessary environment variables, such as API keys or database credentials, in a .env file.
+4. Configure the necessary environment variables, such as API keys or database credentials, in a .env file.
 
-4. Start the Eagle Eye AI by running:
+5. Start the Eagle Eye AI by running:
    
    python eagle_eye.py
    
@@ -73,12 +73,12 @@ We welcome contributions to enhance the capabilities of the Eagle Eye AI. To con
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Shield License](LICENSE).
 
 ## Acknowledgements
 
 We would like to acknowledge the creators of the movie "Eagle Eye" for inspiring this project and showcasing the potential of advanced AI systems.
 
-![Eagle Eye Logo](eagle_eye_logo.png)
+![Eagle Eye Logo](eagle_eye.png)
 
 Feel free to contribute, report issues, or provide feedback!
