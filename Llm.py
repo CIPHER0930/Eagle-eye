@@ -1,6 +1,7 @@
 import random
 import tensorflow as tf
 
+
 class LLMModel:
   def __init__(self, vocabulary, beam_size=None, attention=True, fine_tuning=True, context_injection=False, few_shot_prompting=False, temperature_sampling=False, prompt_engineering=False, knowledge_distillation=False):
     self.vocabulary = vocabulary
