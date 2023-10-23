@@ -49,3 +49,19 @@ Contributions to the Eagle Eye AI project are welcome! If you have any ideas, bu
 This project is licensed under the SHIELD License. You can find more details in the [LICENSE](LICENSE) file.
 
 ---
+
+
+
+eagle-eye
+├── README.md
+├── LICENSE
+├── docs
+│   └── eagle-eye.md
+├── src
+│   ├── deep_learning.py
+│   ├── eagle_eye.py
+│   ├── hacking_tech.py
+│   ├── llm.py
+│   └── tech_control.py
+└── tests
+    └── test_eagle_eye.py
